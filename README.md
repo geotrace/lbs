@@ -1,4 +1,4 @@
-# lbs
+# lbs [![Build Status](https://travis-ci.org/geotrace/lbs.svg?branch=master)](https://travis-ci.org/geotrace/lbs)
 
 Работа с внутренней базой для определения географических координат по данным вышек сотовой станции.
 
