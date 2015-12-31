@@ -9,7 +9,7 @@
 	  -minsample int
 	    	filter for min samples count
 	  -mongo string
-	    	mongoDB connection URL (default "mongodb://localhost/watch")
+	    	mongoDB connection URL (default "mongodb://localhost/geotrace")
 	  -radio string
 	    	filter for radio (comma separated) (default "gsm")
 
