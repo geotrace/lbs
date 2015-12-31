@@ -5,9 +5,8 @@ import (
 	"log"
 	"testing"
 
-	"gopkg.in/mgo.v2"
-
 	"github.com/geotrace/locator"
+	"gopkg.in/mgo.v2"
 )
 
 func TestSearch(t *testing.T) {
