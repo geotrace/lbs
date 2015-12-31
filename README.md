@@ -1,4 +1,4 @@
-# lbs
+# Вычисление географических координат на основании видимых сотовых вышек (LBS)
 
 [![GoDoc](https://godoc.org/github.com/geotrace/lbs?status.svg)](https://godoc.org/github.com/geotrace/lbs)
 [![Build Status](https://travis-ci.org/geotrace/lbs.svg?branch=master)](https://travis-ci.org/geotrace/lbs)
