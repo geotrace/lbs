@@ -34,10 +34,10 @@ type DB struct {
 }
 
 // InitDB возвращает инициализированный объект для работы с хранилищем LBS данных.
-func InitDB(session *mgo.Session, name string) (db *DB, err error) {
+func InitDB(session *mgo.Session, dbName string) (db *DB, err error) {
 	db = &DB{
 		session: session,
-		name:    name,
+		name:    dbName,
 	}
 	return
 }
