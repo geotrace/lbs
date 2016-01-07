@@ -2,6 +2,7 @@
 
 [![GoDoc](https://godoc.org/github.com/geotrace/lbs?status.svg)](https://godoc.org/github.com/geotrace/lbs)
 [![Build Status](https://travis-ci.org/geotrace/lbs.svg?branch=master)](https://travis-ci.org/geotrace/lbs)
+[![Coverage Status](https://coveralls.io/repos/geotrace/lbs/badge.svg?branch=master&service=github)](https://coveralls.io/github/geotrace/lbs?branch=master)
 
 Работа с внутренней базой для определения географических координат по данным вышек сотовой станции.
 
